@@ -7,10 +7,14 @@
         <description>本版本提供：\na\nb\nc</description>
     </fc>
     <dv>
-        <version>v0.2.0</version>
+        <version>v0.3.0</version>
         <mincompat>v0.0</mincompat>
-        <url>https://github.com/cropguard/firmware_release/raw/master/dv/v0.2.0.fex</url>
-        <md5>49C5966DFC77A1C925841FB13390F404</md5>
-        <description>本版本固件：\n1. 修正手机端不能播放DV上视频的问题；\n2. 更新SENSOR IQ；</description>
+        <url>https://github.com/cropguard/firmware_release/raw/master/dv/v0.3.0.fex</url>
+        <md5>99ED387AE78BC02986F07A7AF1D05E6E</md5>
+        <description>本版本固件：
+1. 增加led指示功能；
+2. 优化avout的UI；
+3. 优化飞控控制流程；
+</description>
     </dv>
 </info>
