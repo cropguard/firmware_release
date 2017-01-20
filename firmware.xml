@@ -11,14 +11,12 @@
 </description>
     </fc>
     <dv>
-        <version>v0.4.0</version>
+        <version>v0.5.0</version>
         <mincompat>v0.0</mincompat>
-        <url>https://github.com/cropguard/firmware_release/raw/master/dv/v0.4.0.fex</url>
-        <md5>8865A3FCCFA91AB30473FA9C17D32421</md5>
+        <url>https://github.com/cropguard/firmware_release/raw/master/dv/v0.5.0.fex</url>
+        <md5>A172040986ABB5E7C0FB87387D3C2771</md5>
         <description>本版本固件：
-1. 支持新wifi模组；
-2. 优化飞控连接udp广播流程；
-3. 优化手机控制飞控流程；
+1. 支持在线下载升级飞控固件；
 </description>
     </dv>
 </info>
