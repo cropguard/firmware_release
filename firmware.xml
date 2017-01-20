@@ -1,10 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>  
 <info>
     <fc>
-        <version>v1.0.0</version>
-        <url>https://github.com/cropguard/firmware_release/raw/master/fc/unknown.img</url>
-        <md5>abcdef123456</md5>
-        <description>本版本提供：\na\nb\nc</description>
+        <version>v1.1.9</version>
+        <url>https://github.com/cropguard/firmware_release/raw/master/fc/MircoFlyV3-1.1.9.T.bin</url>
+        <md5>0A3EEC63CAE4AF23B0B976DF3D6DF2F1</md5>
+        <description>本版本提供：
+1、新增手机遥控功能；
+2、新增手机与遥控器遥控切换策略；
+3、新增固件版本管理；
+</description>
     </fc>
     <dv>
         <version>v0.4.0</version>
